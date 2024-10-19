@@ -28,4 +28,3 @@ axios.post('http://localhost:3000/todos', newTodo);
 # Ekran görüntüsü
 
 # ![](basit.gif)
-# Server-Grud
