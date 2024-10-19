@@ -1,0 +1,22 @@
+{
+  "todos": [
+    {
+      "status": "job",
+      "id": "38572a0b-e456-4693-a809-3c8e00d31cb3",
+      "title": "native",
+      "date": "11.06.2024"
+    },
+    {
+      "status": "important",
+      "id": "c95d1e5b-9c44-4488-84b1-1638949b8a8a",
+      "title": "html5",
+      "date": "11.06.2024"
+    },
+    {
+      "status": "important",
+      "id": "ca8ff861-4439-494a-9fbc-43bc11b39bcd",
+      "title": "component",
+      "date": "11.06.2024"
+    }
+  ]
+}
